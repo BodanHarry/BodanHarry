@@ -8,6 +8,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="./src/C.svg" alt="C" width="75" height="70"/> <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> <img src="./src/C++.svg" alt="C++" width="75" height="70"/> <a href="https://devdocs.io/git/" target="_blank" rel="noreferrer"> <img src="./src/Git.svg" alt="Git" width="75" height="70"/> <a href="https://devdocs.io/openjdk/" target="_blank" rel="noreferrer"> <img src="./src/Java.svg" alt="Java" width="75" height="70"/> <a href="https://devdocs.io/python~3.10/" target="_blank" rel="noreferrer"> <img src="./src/Python.png" alt="Java" width="75" height="70"/>
+<p align="center"> <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="./src/C.svg" alt="C" width="75" height="70"/> <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> <img src="./src/C++.svg" alt="C++" width="75" height="70"/> <a href="https://devdocs.io/git/" target="_blank" rel="noreferrer"> <img src="./src/Git.svg" alt="Git" width="75" height="70"/> <a href="https://devdocs.io/openjdk/" target="_blank" rel="noreferrer"> <img src="./src/Java.svg" alt="Java" width="75" height="70"/> <a href="https://devdocs.io/python~3.10/" target="_blank" rel="noreferrer"> <img src="./src/Python.png" alt="Java" width="75" height="70"/> <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2019" target="_blank" rel="noreferrer"> <img src="./src/SqlServer.png" alt="Sql Server" width="75" height="70"/>
+
 
 <hr style="border:15px;"><hr style="border:2px;">
