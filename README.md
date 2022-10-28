@@ -12,8 +12,8 @@
 
 <hr style="border:15px;"><hr style="border:2px;">
 
-<h3 align="center">Do you wanna contact me?</h3>
+<h4 align="center">Do you wanna contact me?</h4>
 
-<p align="center"> <a href="https://www.linkedin.com/in/harry-bod%C3%A1n-3a9875236/" target="_blank" rel="noreferrer"> <img src="./src/Linkedin.png" alt="My Linkedin Profile" width="65" height="60"/> <a href="https://www.instagram.com/h_bodann/" target="_blank" rel="noreferrer"> <img src="./src/Instagram.webp" alt="Mi Instagram Profile" width="65" height="60"/> <a href="https://www.facebook.com/harry.bodan.5" target="_blank" rel="noreferrer"> <img src="./src/Facebook.webp" alt="My Facebook Profile" width="65" height="60"/> 
+<p align="center"> <a href="https://www.linkedin.com/in/harry-bod%C3%A1n-3a9875236/" target="_blank" rel="noreferrer"> <img src="./src/Linkedin.png" alt="My Linkedin Profile" width="55" height="50"/> <a href="https://www.instagram.com/h_bodann/" target="_blank" rel="noreferrer"> <img src="./src/Instagram.webp" alt="Mi Instagram Profile" width="55" height="50"/> <a href="https://www.facebook.com/harry.bodan.5" target="_blank" rel="noreferrer"> <img src="./src/Facebook.webp" alt="My Facebook Profile" width="55" height="50"/> 
 
 <hr style="border:15px;"><hr style="border:2px;">
