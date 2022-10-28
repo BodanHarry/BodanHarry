@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Harry Bodán 👋</h1>
 <h3 align="center">Soon a Software Engineer</h3>
-<h3 align= "center">I’m currently studying in Universidad Cebtroamericana</h3>
+<h3 align= "center">I’m currently studying in Universidad Centroamericana</h3>
 
 <hr style="border-color:purple;">
 
