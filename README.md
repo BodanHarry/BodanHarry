@@ -13,15 +13,15 @@
 
 ## 💥 GitHub Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=BodanHarry&show_icons=true&theme=cobalt&count_private=true&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=BodanHarry&theme=cobalt&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodanHarry&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=cobalt&langs_count=11&layout=compact&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=BodanHarry&show_icons=true&theme=gruvbox_light&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=BodanHarry&theme=gruvbox_light&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodanHarry&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=gruvbox_light&langs_count=11&layout=compact&hide_border=true" width = 400>
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BodanHarry&hide_border=true&theme=cobalt&langs_count=9" width = 420 >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BodanHarry&hide_border=true&theme=gruvbox_light&langs_count=9" width = 420 >
 
 </p>
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BodanHarry&theme=cobalt&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BodanHarry&theme=gruvbox_light&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 
