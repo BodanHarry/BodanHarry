@@ -17,7 +17,7 @@
   <code><img title="C" height="25" src="src/C.svg"></code>
   <code><img title="Git" height="25" src="src/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="src/postgresql.svg"></code>
-  <code><img title="SQL Server" height="25" src="src/Sql Server.png.svg"></code>
+  <code><img title="SQL Server" height="25" src="src/SqlServer.png"></code>
   <code><img title="Visual Studio Code" height="25" src="src/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="src/visualstudio.png"></code>
   <code><img title="Java" height="25" src="src/java-original.svg"></code>
