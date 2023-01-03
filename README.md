@@ -17,7 +17,7 @@
   <code><img title="C" height="25" src="src/C.svg"></code>
   <code><img title="Git" height="25" src="src/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="src/postgresql.svg"></code>
-  <code><img title="SQL Server" height="25" src="src/SqlServer.png.svg"></code>
+  <code><img title="SQL Server" height="25" src="src/Sql Server.png.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="src/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="src/visualstudio.png"></code>
   <code><img title="Java" height="25" src="src/java-original.svg"></code>
@@ -27,7 +27,6 @@
   <code><img title="PHP" height="25" src="src/php.svg"></code>
 </p>
 
-<p align="center"> <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="./src/C.svg" alt="C" width="75" height="70"/> <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> <img src="./src/C++.svg" alt="C++" width="75" height="70"/> <a href="https://devdocs.io/git/" target="_blank" rel="noreferrer"> <img src="./src/Git.svg" alt="Git" width="75" height="70"/> <a href="https://devdocs.io/openjdk/" target="_blank" rel="noreferrer"> <img src="./src/Java.svg" alt="Java" width="75" height="70"/> <a href="https://devdocs.io/python~3.10/" target="_blank" rel="noreferrer"> <img src="./src/Python.png" alt="Java" width="75" height="70"/> <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2019" target="_blank" rel="noreferrer"> <img src="./src/SqlServer.png" alt="Sql Server" width="75" height="70"/>
 
 <hr style="border:15px;"><hr style="border:2px;">
 
