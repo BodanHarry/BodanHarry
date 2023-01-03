@@ -18,7 +18,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=BodanHarry&theme=highcontrast&hide_border=true" width = 400>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodanHarry&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 400>
 
-  <img src="https://wakatime.com/badge/user/c6fd72a3-8c55-4e9f-a683-f2dc19c28745.svg" alt="Total time coded since Jan 2 2023" width = 420 >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BodanHarry&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
 
 </p>
 
