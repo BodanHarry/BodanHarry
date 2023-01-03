@@ -25,11 +25,6 @@
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BodanHarry&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=BodanHarry&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="jxareas' profile views" />
-</p>
-
 <hr style="border:15px;"><hr style="border:2px;">
 
 <h4 align="center">Do you wanna contact me?</h4>
