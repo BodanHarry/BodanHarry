@@ -55,7 +55,3 @@
 <p align="center"> <a href="https://www.linkedin.com/in/harry-bod%C3%A1n-3a9875236/" target="_blank" rel="noreferrer"> <img src="./src/Linkedin.png" alt="My Linkedin Profile" width="55" height="50"/> <a href="https://www.instagram.com/h_bodann/" target="_blank" rel="noreferrer"> <img src="./src/instagram.svg" alt="Mi Instagram Profile" width="55" height="50"/> <a href="https://www.facebook.com/harry.bodan.5" target="_blank" rel="noreferrer"> <img src="./src/Facebook.webp" alt="My Facebook Profile" width="55" height="50"/> 
 
 <hr style="border:15px;"><hr style="border:2px;">
-
-[![Harry Bodán Linkedin](src/LastBanner.gif)](www.linkedin.com/in/harry-bodán-3a9875236)
-
-<hr style="border:15px;"><hr style="border:2px;">
