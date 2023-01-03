@@ -1,4 +1,4 @@
-[![Harry Bodán Linkedin](src/Banner.png)](https://www.linkedin.com/in/harry-bod%C3%A1n-3a9875236/)
+[![Harry Bodán Linkedin](src/Banner.png)](www.linkedin.com/in/harry-bodán-3a9875236)
 
 <h1 align="center">Hi there, I'm Harry Bodán 👋</h1>
 <h3 align="center">Software Engineer Student</h3>
@@ -56,6 +56,6 @@
 
 <hr style="border:15px;"><hr style="border:2px;">
 
-[![Harry Bodán Linkedin](src/LastBanner.gif)](https://www.linkedin.com/in/harry-bod%C3%A1n-3a9875236/)
+[![Harry Bodán Linkedin](src/LastBanner.gif)](www.linkedin.com/in/harry-bodán-3a9875236)
 
 <hr style="border:15px;"><hr style="border:2px;">
