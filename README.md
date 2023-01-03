@@ -6,13 +6,14 @@
 
 <hr style="border-color:purple;">
 
-<h3 align="center">Languages and Tools</h3>
+## ⚡ Technologies
 
 <p align="center"> <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="./src/C.svg" alt="C" width="75" height="70"/> <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> <img src="./src/C++.svg" alt="C++" width="75" height="70"/> <a href="https://devdocs.io/git/" target="_blank" rel="noreferrer"> <img src="./src/Git.svg" alt="Git" width="75" height="70"/> <a href="https://devdocs.io/openjdk/" target="_blank" rel="noreferrer"> <img src="./src/Java.svg" alt="Java" width="75" height="70"/> <a href="https://devdocs.io/python~3.10/" target="_blank" rel="noreferrer"> <img src="./src/Python.png" alt="Java" width="75" height="70"/> <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2019" target="_blank" rel="noreferrer"> <img src="./src/SqlServer.png" alt="Sql Server" width="75" height="70"/>
 
 <hr style="border:15px;"><hr style="border:2px;">
 
-<h1>💥Stats</h1>
+## 💥 Technologies
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=BodanHarry&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=BodanHarry&theme=highcontrast&hide_border=true" width = 400>
