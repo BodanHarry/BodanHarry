@@ -9,26 +9,21 @@
 ## ⚡ Technologies
 <p align="center">
   <code><img title="C++" height="25" src="src/cpp.svg"></code>
-  <code><img title="C#" height="25" src="src/cSharp.svg"></code>
   <code><img title="Python" height="25" src="src/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="src/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="src/html5.svg"></code>
   <code><img title="CSS" height="25" src="src/css.svg"></code>
   <code><img title="Javascript" height="25" src="src/javascript.svg"></code>
-  <code><img title="React" height="25" src="src/react-original.svg"></code>
-  <code><img title="C" height="25" src="src/c.svg"></code>
+  <code><img title="C" height="25" src="src/C.svg"></code>
   <code><img title="Git" height="25" src="src/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="src/postgresql.svg"></code>
+  <code><img title="SQL Server" height="25" src="src/SqlServer.png.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="src/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="src/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="src/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="src/java-original.svg"></code>
   <code><img title="JSON" height="25" src="src/json.svg"></code>
-  <code><img title="Unity" height="25" src="src/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="src/android.svg"></code>
   <code><img title="GitHub" height="25" src="src/github.svg"></code>
   <code><img title="MySQL" height="25" src="src/mysql.svg"></code>
-  <code><img title="npm" height="25" src="src/npm.svg"></code>
   <code><img title="PHP" height="25" src="src/php.svg"></code>
 </p>
 
@@ -58,6 +53,6 @@
 
 <h4 align="center">Do you wanna contact me?</h4>
 
-<p align="center"> <a href="https://www.linkedin.com/in/harry-bod%C3%A1n-3a9875236/" target="_blank" rel="noreferrer"> <img src="./src/Linkedin.png" alt="My Linkedin Profile" width="55" height="50"/> <a href="https://www.instagram.com/h_bodann/" target="_blank" rel="noreferrer"> <img src="./src/Instagram.webp" alt="Mi Instagram Profile" width="55" height="50"/> <a href="https://www.facebook.com/harry.bodan.5" target="_blank" rel="noreferrer"> <img src="./src/Facebook.webp" alt="My Facebook Profile" width="55" height="50"/> 
+<p align="center"> <a href="https://www.linkedin.com/in/harry-bod%C3%A1n-3a9875236/" target="_blank" rel="noreferrer"> <img src="./src/Linkedin.png" alt="My Linkedin Profile" width="55" height="50"/> <a href="https://www.instagram.com/h_bodann/" target="_blank" rel="noreferrer"> <img src="./src/instagram.svg" alt="Mi Instagram Profile" width="55" height="50"/> <a href="https://www.facebook.com/harry.bodan.5" target="_blank" rel="noreferrer"> <img src="./src/Facebook.webp" alt="My Facebook Profile" width="55" height="50"/> 
 
 <hr style="border:15px;"><hr style="border:2px;">
